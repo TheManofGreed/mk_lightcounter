@@ -78,7 +78,7 @@
 
 
         const header = document.createElement("tr");
-        ["Позиция","Є","Немає","Можливо"].forEach(text => {
+        ["Черга","Є","Немає","Можливо"].forEach(text => {
             const th = document.createElement("th");
             th.innerText = text;
             th.style.border = "1px solid #000";
