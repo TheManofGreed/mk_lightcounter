@@ -2,11 +2,13 @@
 // @name         LightCounter
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Плаваюча таблиця підрахунку годин
 // @author       The Man of Greed (https://github.com/TheManofGreed), Michael Chabanov(https://github.com/m-chabanov)
 // @match        https://off.energy.mk.ua/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mk.ua
 // @grant        none
+// @updateURL https://github.com/TheManofGreed/mk_lightcounter/raw/refs/heads/main/mk_LightCounter.user.js
+// @downloadURL https://github.com/TheManofGreed/mk_lightcounter/raw/refs/heads/main/mk_LightCounter.user.js
 // ==/UserScript==
 
 (function() {
